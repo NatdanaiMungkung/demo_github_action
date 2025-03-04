@@ -1,0 +1,10 @@
+{
+  "name": "simple-html-website",
+  "version": "1.0.0",
+  "description": "A simple HTML website deployed to GitHub Pages.",
+  "scripts": {
+    "test": "echo 'No tests configured'"
+  },
+  "author": "Natdanai Mungkung",
+  "license": "MIT"
+}
